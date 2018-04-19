@@ -1,2 +1,2 @@
 # hello-world
-this is my first ripo
+this is my first edited repo
